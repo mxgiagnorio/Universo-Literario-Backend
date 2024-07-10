@@ -1,0 +1,31 @@
+# Database configuration example
+
+# Database name
+MYSQLDATABASE=your_database_name_here
+
+# Database host
+MYSQLHOST=your_database_host_here
+
+# Database password
+MYSQLPASSWORD=your_password_here
+
+# Database port
+MYSQLPORT=your_port_here
+
+# Database user
+MYSQLUSER=your_user_here
+
+# Database name (again for compatibility)
+MYSQL_DATABASE=your_database_name_here
+
+# Private URL to the database
+MYSQL_PRIVATE_URL=mysql://your_user_here:your_password_here@your_private_host_here:your_private_port_here/your_database_name_here
+
+# Root password for the database
+MYSQL_ROOT_PASSWORD=your_root_password_here
+
+# URL to the database
+MYSQL_URL=mysql://your_user_here:your_password_here@your_host_here:your_port_here/your_database_name_here
+
+# Server Port Number
+SERVER_PORT=your_server_port_here
