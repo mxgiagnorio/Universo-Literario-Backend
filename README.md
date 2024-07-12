@@ -75,3 +75,7 @@ Usamos Spark Framework para el backend y MySQL para la base de datos. Puedes ges
 4. Sube tu rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
 
+
+## Comandos para Inicializar el proyecto
+
+-java -cp "out;lib/\*" main.Main
